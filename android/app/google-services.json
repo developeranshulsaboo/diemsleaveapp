@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "278347375278",
+    "firebase_url": "https://diems-leave-application-app.firebaseio.com",
+    "project_id": "diems-leave-application-app",
+    "storage_bucket": "diems-leave-application-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:278347375278:android:dec75c3a7081b2230bc33f",
+        "android_client_info": {
+          "package_name": "org.diems.LeaveApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "278347375278-2i4radf0hg6lq2kbttuat70d9t12eavr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaSptnRyGucZznl3Y3QBW8x1nheuWqHbk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "278347375278-2i4radf0hg6lq2kbttuat70d9t12eavr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
